@@ -1,0 +1,131 @@
+* {
+    box-sizing: border-box;
+    margin: 5px 0px 0px 0px;
+    padding: 0;
+  }
+ 
+  .container {
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    flex-direction: column;
+  } 
+  
+  .quadro {
+    height: 95px;
+  }
+  
+  .lista {
+    display: inline;
+    padding: 0px 15px 0px 2px;
+  }
+  .raiz {
+    padding: 5px 50px 5px 100px;
+    height: 52px;
+    width: 1920px;
+    background-color: black;
+  }
+  
+  .Nacional {
+    background-color: rgba(175, 175, 175, 0.199);
+  }
+  
+  a {
+    color: white;
+    text-decoration: none;
+    font: normal 13px Arial, Helvetica, sans-serif;
+    padding: 10px 7px 20px 7px;
+  }
+  
+  .menu {
+    padding: 0px 0px 0px 120px;
+    width: 892px;
+    height: 665px;
+  }
+  
+  .conteudo {
+    width: 876px;
+    height: 250px;
+  }
+  
+  .titulo  {
+    color: #262626;
+    font-size: 21px;
+    font-weight: 700;
+    line-height: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .paragrafo {
+    width: 876px;
+    height: 48px;
+  }
+  
+  .paragrafo1 {
+    font: normal 16px Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    line-height: 24px;
+    color: #4D4D4D;
+  }
+  
+  .Info {
+    width: 876px;
+    height: 25px;
+    font: normal 12px Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    line-height: 16px;
+    color: #4D4D4D;
+  
+  }
+  
+  .conteudo2 {
+    width: 744px;
+    height: 377px;
+  }
+  
+  .logo {
+    width: 640px;
+    height: 190px;
+    padding: 0px 0px 0px 560px;
+  }
+  
+  .logoCNN {
+    width: 130px;
+    height: 170px;
+  }
+  
+  .par {
+    width: 750px;
+    height: 84px;
+    padding: 0px 0px 0px 60px;
+  }
+  
+  .par1 {
+    font: normal 18px Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    line-height: 28px;
+    letter-spacing: .01em;
+    color: #262626;
+  }
+  
+  .par2 {
+    width: 800px;
+    height: 84px;
+    padding: 20px 0px 0px 60px;
+  }
+  
+  .par3 {
+    font: normal 18px Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    line-height: 28px;
+    letter-spacing: .01em;
+    color: #262626;
+  }
+  
+  .link {
+    font-weight: bold;
+    color: rgb(54, 135, 189);
+    font-size: 18px;
+    text-decoration: underline;
+  }
+  
